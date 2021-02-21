@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: beige;
+}
+
+#section-1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#diliget {
+    margin: 16px;
+    padding: 1cm;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    font-size: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
